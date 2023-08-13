@@ -14,7 +14,7 @@ class _TestPageState extends ConsumerState<TestPage> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: const Text('Catogory Name'),
+        title: const Text('Category Name'),
       ),
       body: Center(
         child: Column(
